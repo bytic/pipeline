@@ -1,0 +1,22 @@
+{
+  "name": "bytic/pipeline",
+  "type": "library",
+  "description": "Pipeline wrapper for phpleague package",
+  "keywords": [
+    "pipeline"
+  ],
+  "homepage": "https://github.com/bytic/pipeline",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Gabriel Solomon",
+      "email": "hello@gabrielsolomon.ro"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0",
+    "league/pipeline": "^1.0"
+  },
+  "require-dev": {
+  }
+}
